@@ -1,0 +1,11 @@
+# Task ID: 2
+# Title: Define Core Data Models
+# Status: pending
+# Dependencies: 1
+# Priority: high
+# Description: Implement the core data models as specified in the PRD.
+# Details:
+Define Project, ContentGeneration, and PromptChain models in code. Use TypeScript interfaces or equivalent for strong typing. Ensure fields match PRD schema: id, name, industry, website_url, wordpress_credentials (encrypted), seo_keywords, content_calendar, cultural_preferences, performance_metrics for Project; id, project_id, research_input, generated_prompts, content_components, final_content, seo_metadata, publishing_status, performance_data for ContentGeneration; id, phase, prompts, dependencies, cultural_validation, quality_score, execution_status for PromptChain.
+
+# Test Strategy:
+Unit tests for model validation, field presence, and type checking.

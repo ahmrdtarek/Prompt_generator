@@ -1,0 +1,11 @@
+# Task ID: 15
+# Title: Implement Security & Compliance Infrastructure
+# Status: pending
+# Dependencies: 3, 4, 14
+# Priority: high
+# Description: Set up enterprise-grade security and compliance features.
+# Details:
+Implement data encryption at rest and in transit. Use Google Cloud Secret Manager for API keys. Set up role-based access control, session management, and audit logging. Monitor for threats.
+
+# Test Strategy:
+Test encryption, access control, and audit logging. Validate threat detection and compliance.

@@ -1,0 +1,11 @@
+# Task ID: 7
+# Title: Develop Project Management UI
+# Status: pending
+# Dependencies: 2, 3, 4
+# Priority: medium
+# Description: Create a user interface for project management.
+# Details:
+Build a dashboard for project creation, listing, and management. Support project CRUD operations. Ensure UI is clean, modern, and responsive. Implement right-to-left support for Arabic.
+
+# Test Strategy:
+Test project creation, listing, editing, and deletion. Validate UI responsiveness and RTL support.

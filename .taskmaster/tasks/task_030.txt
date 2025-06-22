@@ -1,0 +1,11 @@
+# Task ID: 30
+# Title: Implement Continuous Integration/Deployment
+# Status: pending
+# Dependencies: 1, 14
+# Priority: medium
+# Description: Set up CI/CD pipelines for automated testing and deployment.
+# Details:
+Configure GitHub Actions or similar for automated builds, tests, and deployments. Ensure secure and reliable release processes.
+
+# Test Strategy:
+Test CI/CD pipeline execution, build success, and deployment reliability.

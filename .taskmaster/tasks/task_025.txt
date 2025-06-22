@@ -1,0 +1,11 @@
+# Task ID: 25
+# Title: Develop User Onboarding and Help System
+# Status: pending
+# Dependencies: 7, 12, 17
+# Priority: medium
+# Description: Create user onboarding flows and help documentation.
+# Details:
+Implement guided onboarding for new users. Provide in-app help and documentation. Support Arabic and English languages.
+
+# Test Strategy:
+Test onboarding flows and help accessibility. Validate multilingual support.

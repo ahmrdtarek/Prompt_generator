@@ -1,0 +1,11 @@
+# Task ID: 1
+# Title: Setup Project Repository
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: Initialize a new project repository with version control and basic project structure.
+# Details:
+Create a new repository on GitHub or similar platform. Set up main branches (main/develop), add README, LICENSE, and basic .gitignore. Initialize package.json or equivalent for backend/frontend.
+
+# Test Strategy:
+Verify repository creation, branch setup, and initial files are present.
