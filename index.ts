@@ -1,0 +1,1 @@
+console.log("Could not automatically run application");
