@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@firebase/app": "^0.13.1",
-    "@google-cloud/aiplatform": "^4.2.0",
+    "@google-cloud/aiplatform": "^4.4.0",
     "firebase": "^11.9.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
